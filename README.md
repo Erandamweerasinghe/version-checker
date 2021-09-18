@@ -32,7 +32,7 @@ step : 05
 
 	npm install ./cap-pluging/version-checker  (withing project derectry )
 
-	After install plugin packege.json file nnow show the plugin package
+	After install plugin package.json file nnow show the plugin package
 		"my-plugin": "file:my-plugin"
 
 
